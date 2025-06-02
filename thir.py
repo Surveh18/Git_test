@@ -1,1 +1,0 @@
-print("hello third cmdds")
